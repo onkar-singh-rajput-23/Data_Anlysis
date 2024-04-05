@@ -1,2 +1,5 @@
 # Data_Anlysis
-In this repository you will find all the data Analytic code 
+I have created some projects in Data Analytics and machine learing all  projects that I have create are present here.
+<br>
+I am adding all the project reports how I am create and what technology I have usead.
+
