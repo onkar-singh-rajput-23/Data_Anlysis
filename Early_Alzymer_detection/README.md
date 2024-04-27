@@ -12,12 +12,12 @@ Everyone is right-handed. <br>
 
 **Column Discription**
 <br>
-COL	FULL-FORMS
+**COL	FULL-FORMS**
 <br>
-EDUC	Years of education <br>
-SES	Socioeconomic Status <br>
-MMSE	Mini Mental State Examination <br>
-CDR	Clinical Dementia Rating <br>
-eTIV	Estimated Total Intracranial Volume <br>
-nWBV	Normalize Whole Brain Volume  <br>
-ASF	Atlas Scaling Factor <br>
+EDUC	-Years of education <br>
+SES-	Socioeconomic Status <br>
+MMSE -	Mini Mental State Examination <br>
+CDR	- Clinical Dementia Rating <br>
+eTIV -	Estimated Total Intracranial Volume <br>
+nWBV -	Normalize Whole Brain Volume  <br>
+ASF -	Atlas Scaling Factor <br>
