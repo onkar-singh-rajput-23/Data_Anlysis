@@ -10,7 +10,7 @@ Everyone is right-handed. <br>
 14 subjects were grouped as 'Nondemented' at the time of their initial visit and were subsequently characterized as 'Demented' at a later visit. These fall under the 'Converted' category. <br>
 
 
-** Column Discription **
+**Column Discription**
 <br>
 COL	FULL-FORMS
 <br>
